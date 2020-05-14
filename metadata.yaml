@@ -1,0 +1,29 @@
+_repo: Le-cronache-italiane-nel-Medio-Evo_62038
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balzani, Ugo
+    alias: Balzani, U. (Ugo)
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '51741'
+    url: http://www.gutenberg.org/2009/agents/51741
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ugo_Balzani
+    - https://it.wikipedia.org/wiki/Ugo_Balzani
+description: ''
+gutenberg_issued: '2020-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62038'
+  lccn: it01000031
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- History -- 476-1268 -- Historiography'
+- GITenberg
+title: Le cronache italiane nel Medio Evo
+url: http://www.gutenberg.org/ebooks/62038
